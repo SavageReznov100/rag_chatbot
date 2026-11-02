@@ -1,0 +1,16 @@
+__pycache__/
+*.py[co]
+.venv/
+.env
+db/
+data/
+.git/
+.gitignore
+*.log
+*.sqlite3
+Dockerfile
+.dockerignore
+_tmp_*.py
+_tmp_*.log
+_tmp_*.txt
+_diag_*.py
